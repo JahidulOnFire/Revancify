@@ -1,7 +1,11 @@
-# Revancify 🛠️
+# Revancify 🛠️ (Archived)
 ### A TUI wrapper for Revanced CLI with amazing features.
 
 [![TelegramChannel](https://img.shields.io/badge/Telegram_Support_Chat-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/decipher_projects)
+
+## Alternative
+### 1. [ReVanced Manager (Official)](https://github.com/ReVanced/revanced-manager)
+### 2. [Universal ReVanced Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager)
 
 ## Termux
 
@@ -42,3 +46,4 @@ Or use with arguments. Check them with `revancify -h`
 # Thanks & Credits
 [Revanced](https://github.com/revanced)  
 [Revanced Extended](https://github.com/inotia00)  
+
